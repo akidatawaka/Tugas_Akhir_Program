@@ -1,0 +1,50 @@
+INSERT INTO detil_bahanbaku
+VALUES ('1','BB03','44550');
+
+INSERT INTO detil_bahanbaku
+VALUES ('3','BB03','30500');
+
+
+INSERT INTO detil_bahanbaku
+VALUES ('4','BB04','36000');
+
+INSERT INTO detil_bahanbaku
+VALUES ('3','BB04','29000');
+
+
+INSERT INTO detil_bahanbaku
+VALUES ('1','BB02','42900');
+
+INSERT INTO detil_bahanbaku
+VALUES ('5','BB02','40500');
+
+INSERT INTO detil_bahanbaku
+VALUES ('6','BB06','123750');
+
+INSERT INTO detil_bahanbaku
+VALUES ('7','BB06','110000');
+
+
+INSERT INTO detil_bahanbaku
+VALUES ('6','BB07','112750');
+
+INSERT INTO detil_bahanbaku
+VALUES ('7','BB07','102000');
+
+INSERT INTO detil_bahanbaku
+VALUES ('8','BB05','32000');
+
+INSERT INTO detil_bahanbaku
+VALUES ('9','BB05','33000');
+
+INSERT INTO detil_bahanbaku
+VALUES ('10','BB05','28500');
+
+INSERT INTO detil_bahanbaku
+VALUES ('1','BB01','38720');
+
+INSERT INTO detil_bahanbaku
+VALUES ('9','BB01','36000');
+
+INSERT INTO detil_bahanbaku
+VALUES ('11','BB01','32500');

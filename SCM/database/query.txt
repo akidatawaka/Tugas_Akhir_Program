@@ -1,0 +1,73 @@
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2016/07/01','LF01','5000');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2016/08/01','LF01','7000');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2016/09/01','LF01','5500');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2016/10/01','LF01','7750');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2016/11/01','LF01','5750');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2016/12/01','LF01','8000');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2017/01/01','LF01','5000');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2017/02/01','LF01','5750');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2017/03/01','LF01','6000');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2017/04/01','LF01','5750');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2017/05/01','LF01','4200');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2017/06/01','LF01','1500');
+
+
+//LF2
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2016/07/01','LF02','500');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2016/08/01','LF02','2200');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2016/09/01','LF02','4500');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2016/10/01','LF02','1300');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2016/11/01','LF02','4500');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2016/12/01','LF02','1000');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2017/01/01','LF02','2000');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2017/02/01','LF02','5500');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2017/03/01','LF02','2500');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2017/04/01','LF02','5000');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2017/05/01','LF02','5500');
+
+INSERT INTO rencana_produksi (tanggal_rencana,id_produk,jumlah)
+VALUES ('2017/06/01','LF02','7500');
